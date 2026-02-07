@@ -1,0 +1,75 @@
+What do I do if a patient tells me they have a food allergy?														
+1	If a patient informs you that they have a food allergy, always check to see if it is listed in HealthTouch on the left side column under "allergies" or "comments"													
+														
+2	If you do not see an allergy listed under allergies or comments, check the interface notes to see if any allergies are documented here 													
+		If you see an interface note that is NOT automatically populating the allergy into HealthTouch allergies or comments, we need to notify Amy Denbow. 												
+		This is a problem with the system that needs to be addressed												
+														
+3	If the allergy is not listed, add the allergy into HealthTouch (see the allergies tab under "to add new allergy" in this excel document) and make a note that the patient 													
+	reported the allergy to you. This will block out all foods that are made with or contain the allergen, preventing you from being able to add this to their tray.													
+		If the allergy is not available to select, see the next bow below.												
+														
+4	After completing the call with the patient, immediately call the nurse and inform them of the patient's stated allergy/allergies so that they can update this information in 													
+	the medical record	
+
+
+What do I do if a patient has an allergy that I cannot add in HealthTouch?														
+1	While Health Touch is programmed with many common allergies, it is possible for a patient to have an allergy or intolerance that our system does not recognize.													
+	If they have an allergy that you cannot add under the allergy heading in HealthTouch (see above), start by listing the allergy under "comment" on the allergy screen													
+	You do not need to list a requisition number.													
+														
+2	Next, navigate to the "likes and dislikes" screen. Search for the allergy under the "ingredients" heading. Do NOT search for the allergy under the "items" heading.													
+														
+3	Select all applicable ingredients for the allergy and list them as dislikes (see example scenario below)													
+														
+4	Listing the allergy as a dislike does NOT gray out all food items that are made with or contain the allergen. Instead, a pop-up will appear notifying you that the selected													
+	"food item contains the allergen. Do not override this pop-up. It is notifying you that the food would be a danger for a patient with that allergy to consume.												"													
+														
+5	After completing the call with the patient, immediately call the nurse and inform them of the patient's stated allergy/allergies so that they can update this information in 													
+	the medical record. Specify everything that you did in "HealthTouch", including how you documented the unlisted allergy under "comments" and "dislikes" to ensure the													
+	patient is not sent foods containing the allergen.													
+														
+6	Make a note that the patient reported the unlisted allergy to you, that you listed it under "comments" and "dislikes", and that you called to notify the nurse of the situation													
+														
+														
+Example:														
+	A patient calls to place a lunch order and they inform you they have an allergy to anchovies													
+														
+	You see that this allergy is not listed in HealthTouch or mentioned on an interface note, so you attempt to add it 													
+	to their profile 													
+														
+	You do not see anchoives appear in the list of available allergies, so you write it into the comments section													
+														
+														
+														
+														
+														
+														
+														
+														
+	Next, you click on the "dislikes" tab and search for anchovies under "ingredients"													
+														
+	You do NOT search for this under "items"													
+														
+	You select anchovies and all other relevant ingredients, like anchovy extract and pureed anchovies													
+														
+														
+														
+														
+														
+														
+														
+	You continue to take the patient's order, which includes a chicken caesar salad													
+														
+	When you go to select the caesar dressing, a pop-up appears notifying you that it contains anchovies													
+														
+	You do not override the pop up, instead you inform that patient that the caesar dressing contains an 													
+	ingredient they are allergic to, and offer a suggestion for another dressing safe for them to consume													
+														
+														
+														
+														
+	After completing the call with the patient, you immediately call the nurse and inform them of the patient's stated													
+	allergy/allergies and everything you did in HealthTouch so that they can update this information on their end													
+														
+	Finally, you document everything you did in the patient notes tab												
