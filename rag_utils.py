@@ -1,6 +1,7 @@
 import os
 import json
 import tempfile
+import streamlit as st
 
 
 # Modern Modular Imports
@@ -18,7 +19,7 @@ load_dotenv(dotenv_path=".env")
 llm = ChatGoogleGenerativeAI(
     model="gemini-1.5-flash",
     temperature=0.1,
-    api_key=os.getenv("GOOGLE_API_KEY")
+    google_api_key=st.secrets["GOOGLE_API_KEY"] # Use st.secrets
 )
 
 VECTOR_STORE_PATH = "vector_store"
