@@ -46,7 +46,7 @@ def process_files(files, chunk_size = 1000, chunk_overlap = 100):
             loader = PyPDFLoader(tmp_path)
             
         elif file_ext == ".csv":
-            loader = CSVLoader(tmp_path)
+            loader = CSVLoader(tmp_path, encoding="utf-8")
             
         elif file_ext == ".txt":
             loader = TextLoader(tmp_path)
