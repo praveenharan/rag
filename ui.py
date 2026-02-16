@@ -4,7 +4,7 @@ from rag_utils import process_files, ask_llm
 
 
 st.set_page_config(page_title="Advanced RAG", page_icon=":sparkles:", layout="wide")
-st.title("Retrieval Augmented Generation (RAG) | by Praveen HARAN")
+st.title("RAG | by Praveen HARAN")
 
 st.sidebar.header("Upload files")
 uploaded_files = st.sidebar.file_uploader("Choose files to upload", accept_multiple_files=True)
