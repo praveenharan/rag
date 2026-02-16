@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 # Initialize sentence transformer embeddings (free)
 load_dotenv(dotenv_path=".env") 
 llm = ChatGoogleGenerativeAI(
-    model="gemini-2.5-flash",   # or "gemini-1.5-pro", etc.
+    model="gemini-1.5-flash",
     temperature=0.1,
     api_key=os.getenv("GOOGLE_API_KEY")
 )
